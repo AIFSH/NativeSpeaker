@@ -23,7 +23,7 @@ num_lock = threading.Lock()
 class Upscale:
     def __init__(self,fidelity_weight=0.9) -> None:
         self.pretrain_model_url = {
-            'restoration': 'https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer.pth',
+            'restoration': 'https://mirror.ghproxy.com/https://github.com/sczhou/CodeFormer/releases/download/v0.1.0/codeformer.pth',
         }
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.use_half = True 
