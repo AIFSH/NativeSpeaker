@@ -29,5 +29,5 @@ weights/
 
 # ignore all the .history folder in this git directory including subdir
 .ipynb_checkpoints/
-
+/test
 !LICENSE
