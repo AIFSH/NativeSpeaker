@@ -2,7 +2,7 @@
 make your Speaker talking as Native style with own voice
 
 # How To Use?
-[【NativeSpeaker快开源啦！进来一键3连，加速开源进度】] (https://www.bilibili.com/video/BV1zc411S7vT/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
+[【NativeSpeaker快开源啦！进来一键3连，加速开源进度】](https://www.bilibili.com/video/BV1zc411S7vT/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
 
 or join in wechat group for step by step tutorial
 
