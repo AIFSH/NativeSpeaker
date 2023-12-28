@@ -1,6 +1,9 @@
 # NativeSpeaker
 make your Speaker talking as Native style with own voice
 
+# gallery
+- [【是麦克阿瑟？还是演员】](https://www.bilibili.com/video/BV1P64y1p7e9/?share_source=copy_web)
+- [【圣诞特辑|byd大力王中文很标准的一集】](https://www.bilibili.com/video/BV1sN4y147za/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
 # How To Use?
 [【NativeSpeaker快开源啦！进来一键3连，加速开源进度】](https://www.bilibili.com/video/BV1zc411S7vT/?share_source=copy_web&vd_source=453c36b4abef37acd389d4c01b149023)
 

@@ -116,7 +116,7 @@ class Upscale:
                 executor.submit(self.enhance_face,img_path,i,video_name,test_img_num,
                                 bg_upsampler,result_root,input_video,net,face_upsampler)
         '''
-        Parallel(n_jobs=-1)(delayed(self.enhance_face)(img_path,i,video_name,test_img_num,\
+        Parallel(n_jobs=4)(delayed(self.enhance_face)(img_path,i,video_name,test_img_num,\
                                                        bg_upsampler,result_root,input_video,\
                                                         net,face_upsampler) for i,img_path in enumerate(input_img_list))
 
